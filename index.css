@@ -3,7 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+p {
+    color: #FFF;
+}
 h1 {
     font-size: 2rem;
     background-color: lightblue;
