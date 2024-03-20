@@ -6,6 +6,9 @@
 p {
     color: #FFF;
 }
+.fix-css {
+    text-align:center;
+}
 h1 {
     font-size: 2rem;
     background-color: lightblue;
